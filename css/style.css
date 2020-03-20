@@ -4,5 +4,15 @@ body {
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    border: 2px solid rebeccapurple;
+    padding: 2rem;
+}
+
+button {
+    background-color: darkseagreen;
+    padding: 1rem;
+}
+
+button:hover {
+    background-color: aliceblue;
+    font-weight: 700;
 }
