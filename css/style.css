@@ -2,4 +2,7 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    border: 2px solid rebeccapurple;
 }
